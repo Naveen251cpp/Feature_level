@@ -56,7 +56,7 @@ int main()
 {
 	Employee emp1;
 	emp1.display();
-	Employee emp2(101, "Uday kumar", 90000);
+	Employee emp2(101, "Arjun", 90000);
 	emp2.display();
 	Employee emp3(emp2);
 	emp3.display();
